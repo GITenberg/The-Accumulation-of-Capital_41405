@@ -28,6 +28,8 @@ creator:
     - http://en.wikipedia.org/wiki/Rosa_Luxemburg
     - http://de.wikipedia.org/wiki/Rosa_Luxemburg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41405#The-Accumulation-of-Capital
 gutenberg_issued: '2012-11-19'
 gutenberg_type: Text
 identifiers:
