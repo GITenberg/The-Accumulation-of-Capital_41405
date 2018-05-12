@@ -1,0 +1,47 @@
+_repo: The-Accumulation-of-Capital_41405
+_version: 0.1.0
+alternative_title: Die Akkumulation des Kapitals. English
+contributor:
+  author_of_introduction:
+    agent_name: Robinson, Joan
+    alias: Robinson, Joan Violet
+    birthdate: 1903
+    deathdate: 1983
+    gutenberg_agent_id: '41165'
+    url: http://www.gutenberg.org/2009/agents/41165
+  translator:
+    agent_name: Schwarzschild, Agnes
+    gutenberg_agent_id: '41166'
+    url: http://www.gutenberg.org/2009/agents/41166
+covers:
+- cover_type: archival
+  image_path: 41405-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Luxemburg, Rosa
+    alias: Junius
+    birthdate: 1871
+    deathdate: 1919
+    gutenberg_agent_id: '32368'
+    url: http://www.gutenberg.org/2009/agents/32368
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Rosa_Luxemburg
+    - http://de.wikipedia.org/wiki/Rosa_Luxemburg
+description: ''
+gutenberg_issued: '2012-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41405'
+  lccn: a51009862
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Socialism'
+- !lcsh 'Capitalism'
+- !lcsh 'Saving and investment'
+- !lcc 'HB'
+- !lcsh 'Imperialism'
+title: The Accumulation of Capital
+url: http://www.gutenberg.org/ebooks/41405
